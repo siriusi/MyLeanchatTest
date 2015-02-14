@@ -1,6 +1,8 @@
+/*
 require("cloud/app.js");
 // Use AV.Cloud.define to define as many cloud functions as you want.
 // For example:
+
 var mlog = require('cloud/mlog');
 var mutil = require('cloud/mutil');
 var muser = require('cloud/muser');
@@ -23,3 +25,4 @@ AV.Cloud.define("group_sign", msign.groupSign);
 
 AV.Cloud.define("_messageReceived",mchat.messageReceived);
 AV.Cloud.define("_receiversOffline",mchat.receiversOffline);
+*/
