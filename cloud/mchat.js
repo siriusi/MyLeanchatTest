@@ -10,6 +10,7 @@ var msgTypeLocation=3;
 
 function messageReceived(req, res) {
   //mlog.logObject(req.params,true);
+  alert("inMessageReceived");
   res.success();
 }
 
